@@ -22,6 +22,8 @@ Enter the index for an animal:2
 The animal at that index is Dog
 """
 
+animals = ["Cat", "Fish", "Dog", "Bear", "Turtle"]
+sorted_list = sorted(animals, key=str.lower)
+print(sorted_list)
 
-
-animals =
+['aa', 'ab', 'b', 'B']
