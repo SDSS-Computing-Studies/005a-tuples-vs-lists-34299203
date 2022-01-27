@@ -31,5 +31,13 @@ t2 = input("Enter a word").strip
 t3 = input("Enter a word").strip
 t4 = input("Enter a word").strip
 t5 = input("Enter a word").strip
+
+t1 =str(t1)
+t2 =str(t2)
+t3 =str(t3)
+t4 =str(t4)
+t5 =str(t5)
+
+
 x =[t1, t2, t3, t4, t5]
 print(x)
